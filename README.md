@@ -2,7 +2,6 @@
 
 A robust and user-friendly terminal-based leave management system built in C, designed to streamline employee leave requests and manager approvals with secure authentication and data persistence.
 
-![Project Structure](https://via.placeholder.com/800x400/2C3E50/FFFFFF?text=LRMS+-+Terminal-Based+Leave+Management)
 
 ---
 
@@ -170,3 +169,4 @@ If you find this project useful, please give it a star on GitHub!
 
 *Last Updated: February 2024*  
 *Version: 1.0.0*
+
